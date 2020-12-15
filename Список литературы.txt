@@ -1,0 +1,11 @@
+1)Проблемы кибербезопасности - https://spravochnick.ru/informacionnaya_bezopasnost/problemy_kiberbezopasnosti/
+2)Вопросы решаемые кибербезопасностью - http://withsecurity.ru/kiberbezopasnost-voprosy-problemy-i-ugrozy-bezopasnosti
+3)Киберугроза. Типы киберугроз - https://itsecforu.ru/2017/03/08/%D0%BE%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-%D0%BA%D0%B8%D0%B1%D0%B5%D1%80%D1%83%D0%B3%D1%80%D0%BE%D0%B7%D1%8B-%D1%82%D0%B8%D0%BF%D1%8B-%D1%83%D0%B3%D1%80%D0%BE%D0%B7/
+4)Источники киберугроз - https://studme.org/331419/ekonomika/istochniki_kiberugroz_osnovnye_problemy
+5)Причины успеха кибератак - https://habr.com/ru/article/413191/
+6)28 глава УК РФ - http://base.garant.ru/10108000/42bb11d7291ec544e2ec2604179c0da1/
+7)Причины проблем кибербезопасности в России - http://www.garant.ru/article/520694/
+8)Влияние Covid-19 на кибербезопасность -  https://www.securitylab.ru/blog/company/bitdefender/348975.php
+9)Обеспечение кибербезопасности в сфере бизнеса - https://www.anti-malware.ru/analytics/Threats_Analysis/TOP_5_tips_for_cybersecurity_business
+10) Общие тенденции и способы улучшения кибербезопасности - https://www.ptsecurity.com/ru-ru/research/analytics/cybersecurity-2019-2020/
+[№ Пр-1895] - http://base.garant.ru/182535/
